@@ -1,0 +1,2 @@
+umenu1 = MenuDTO{menuCode=12, menuName='날치알스크류바', menuPrice=0, categoryCode=0, orderableStatus='null'}
+umenu2 = MenuDTO{menuCode=12, menuName='날치알스크류바', menuPrice=0, categoryCode=0, orderableStatus='null'}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ohgiraffers.section01.problem.ProblemsOfUsingDirectSQLTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-09T23:21:03" hostname="DESKTOP-0KHO81C" time="0.379">
+  <properties/>
+  <testcase name="조회한 두 개의 행을 담은 객체의 동일성 비교 테스트" classname="com.ohgiraffers.section01.problem.ProblemsOfUsingDirectSQLTests" time="0.379"/>
+  <system-out><![CDATA[menu1 = MenuDTO{menuCode=12, menuName='날치알스크류바', menuPrice=0, categoryCode=0, orderableStatus='null'}
+menu2 = MenuDTO{menuCode=12, menuName='날치알스크류바', menuPrice=0, categoryCode=0, orderableStatus='null'}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
